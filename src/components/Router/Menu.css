@@ -1,0 +1,28 @@
+.nav-item {
+  margin: 5px;
+  border: honeydew;
+  margin: 8px;
+  
+}
+.nav-links {
+  text-decoration: none;
+  border: none;
+  outline: none;
+
+  color: white;
+  border-radius: 4px;
+  font-weight: bold;
+}
+.nav-links:hover {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+  padding: 8px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.logo {
+  width: 50px;
+  height: 45px;
+  padding-left: 5px;
+}
